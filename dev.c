@@ -7,10 +7,11 @@ main()
 }
 add()
 {
-int a,b,c;
-a=1000;
-b=2000;
+int a,b,c,d;
+a=10;
+b=20;
 c=a+b;
+d=a+b+c;
 }
 
 
@@ -22,8 +23,9 @@ sub()
 
 multi()
 {
-	int a,b,c;
+	int a,b,c,d,e;
 	a=10;
 	b=20;
 	c=a*b;
+	d=a*b*c;
 }
