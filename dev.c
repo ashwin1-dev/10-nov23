@@ -16,7 +16,7 @@ d=a+b+c;
 
 multi()
 {
-	int a,b,c,d;
+	int a,b,c,d,e;
 	a=10;
 	b=20;
 	c=a*b;
