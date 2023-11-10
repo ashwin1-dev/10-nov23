@@ -3,6 +3,7 @@
 main()
 {
 	add();
+ 	sub();
 }
 add()
 {
@@ -13,6 +14,12 @@ c=a+b;
 d=a+b+c;
 }
 
+
+sub()
+{
+	int a=10,b=20,c;
+	c=a-b;
+}
 
 multi()
 {
